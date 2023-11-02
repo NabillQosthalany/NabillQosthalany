@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nabil Qosthalany</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3XsCIKUsE8ZiO5jQXLce2G&ust=1698987951418000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCa_LzFpIIDFQAAAAAdAAAAABBG"/>
+<img align="right" alt="Coding" width="400"src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3XsCIKUsE8ZiO5jQXLce2G&ust=1698987951418000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCa_LzFpIIDFQAAAAAdAAAAABBG](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"/>
 
 - 📄 has 5 months of practical field work experience as a Web Developer **Spring Boot and Vue Js**
 
