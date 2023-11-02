@@ -1,4 +1,4 @@
-<img src="https://pfps.gg/assets/banners/8653-smile.gif" alt="GIF" style="width: 800px; display: block; margin: 0 auto;">
+<img src="https://pfps.gg/assets/banners/8653-smile.gif" alt="GIF" style="width: 1000px; display: flex; justify-content:center;">
 <h1 align="center">Hi 👋, I'm Nabil Qosthalany</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400"src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
